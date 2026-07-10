@@ -40,6 +40,7 @@ var _a = "shubam";  //this is a valid name here
  let o = {
     "name" : "Harry",
     "job code" : 5600,
+    "is_rich" : true,
  }
 //  this is like a dictionary format of key value pair
 
