@@ -44,3 +44,6 @@ var _a = "shubam";  //this is a valid name here
 //  this is like a dictionary format of key value pair
 
  console.log(o)
+//  to add a value to the key value pair, we have to do this
+o.salary = "100crores"
+console.log(o)
