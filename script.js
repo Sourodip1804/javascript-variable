@@ -32,9 +32,11 @@ var _a = "shubam";  //this is a valid name here
  let q = undefined;
  let r = null; //this is a object
 
+ 
  console.log(x, y, z, p, q, r)
  console.log(typeof x, typeof y, typeof z, typeof p, typeof q, typeof r)
-
+ 
+ //here to create a object we should write like this as o as the variable for the object
  let o = {
     "name" : "Harry",
     "job code" : 5600,
