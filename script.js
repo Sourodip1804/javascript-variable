@@ -41,5 +41,6 @@ var _a = "shubam";  //this is a valid name here
     "name" : "Harry",
     "job code" : 5600,
  }
+//  this is like a dictionary format of key value pair
 
  console.log(o)
