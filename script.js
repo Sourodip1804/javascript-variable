@@ -45,5 +45,7 @@ var _a = "shubam";  //this is a valid name here
 
  console.log(o)
 //  to add a value to the key value pair, we have to do this
-o.salary = "100crores"
-console.log(o)
+o.salary = "100crores";
+console.log(o);
+o.salary = "500crores";
+console.log(o);
